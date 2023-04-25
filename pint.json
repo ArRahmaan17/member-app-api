@@ -1,0 +1,8 @@
+{
+    "preset": "symfony",
+    "rules": {
+        "concat_space": {
+            "spacing": "one"
+        }
+    }
+}
